@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Push Notification</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="default_notification_channel_id">PN_CH_01</string>
+    <string name="profile">Profile</string>
+    <string name="allusers">All Users</string>
+    <string name="email">Email…</string>
+    <string name="password">Password…</string>
+    <string name="login">Login to my Account</string>
+    <string name="newuser">Need a new Account?</string>
+    <string name="name">Name…</string>
+    <string name="status">status</string>
+    <string name="backtologin">Back to Login</string>
+    <string name="register">Create a new Account</string>
+    <string name="sendto">Send to …</string>
+    <string name="notimesg">Enter Notificaion Message…</string>
+    <string name="sendnoti">Send Notification</string>
+    <string name="deleteaccount">Delete this Account</string>
+    <string name="timedis">time</string>
+    <string name="yesterday">Yesterday</string>
+    <string name="usernameloading">UserName Loading…</string>
+    <string name="notificationmsg">Notification Message</string>
+    <string name="username">Username</string>
+    <string name="logout">Logout this Account</string>
+    <string name="notificationdata">Notification Data</string>
+    <string name="send">Send to %s</string>
+    <string name="date">%s</string>
+    <string name="time">%s</string>
+    <string name="notification">FROM : %1$s | MESSAGE : %2$s</string>
+    <string name="notifications">Notifications</string>
+    <string name="intro">Welcome to ChitChat Messenger App</string>
+</resources>
